@@ -1,6 +1,8 @@
 # SolutionChallenge
 Main parts of our code :
 
+for more information please visit : https://sites.google.com/view/goverzen/accueil
+
 Part 1 : importing libraries 
 
 nltk : The Natural Language Toolkit (NLTK) is a platform used for building Python programs that work with human language data for applying in statistical natural language processing.
