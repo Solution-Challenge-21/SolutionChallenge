@@ -5,7 +5,7 @@ Part 1 : importing libraries
 
 nltk : The Natural Language Toolkit (NLTK) is a platform used for building Python programs that work with human language data for applying in statistical natural language processing.
 
-tensorflow : open-source library developed by Google primarily for deep learning applications. It also supports traditional machine learning.
+tensorflow 1.14.0 : open-source library developed by Google primarily for deep learning applications. It also supports traditional machine learning.
 
 tflearn : TFlearn is a modular and transparent deep learning library built on top of Tensorflow.
 
