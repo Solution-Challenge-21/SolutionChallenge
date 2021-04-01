@@ -12,7 +12,7 @@ with open('complaints.json') as file:
     data = json.load(file)
 
 
-
+    # for further informaion, visit https://sites.google.com/view/goverzen/accueil
 
 words = []
 labels = []
@@ -97,8 +97,8 @@ def correlation():
         if inp.lower() == "admin123":
             inp = input("Welcome to the admin panel, what section would you like to change?")
             admin_acess = 1
-        #the results are the probability of each possible tag and this is where 
-        # we will be handling errors of really low probabilities
+        #the results are the probability of a specific tag with every other possible post description and this is where 
+        # we will be handling the correlation of a specific post with every other post to find the trending ones and to generate automated surveys.
         #print(results)
         #print(tag)
         results = model.predict([bag_of_words(inp, words)])
@@ -117,7 +117,7 @@ def correlation():
             print("the answer for these question is :  ",responses)
             admin_acess = 0
         else:
-            print(sum(results[0]))
-            print(results)
+            print("the total correlation of this title: "sum(results[0]))
+            print(results) 
 
 correlation()
