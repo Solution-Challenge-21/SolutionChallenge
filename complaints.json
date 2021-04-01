@@ -1,0 +1,38 @@
+{"intents": [
+        {"tag": "why small businesses are destroyed ",
+         "patterns": ["Your first step ", "to launch a business in Tunisia,"," is that you must find a friend ","or a relative that lives abroad"," who can open an online banking"," account for you."," In my case DROPSHIPPING business"," was impossible to start ","which led me to open ","a bank account abroad ","which will help"," the specific foreign country ","since i pay taxes there ."],
+         "responses": ["!"],
+         "context_set": ""
+        },
+        {"tag": "Tunisia's national airlines administration failure",
+         "patterns": ["Everyone heard and saw"," the video that clearly shows"," how Air tunis administration is everything ","but serious and professional work. ","The government of transportation should consider"," a system that actually records ","the effeciency and work time of these ","employees if they are looking to fixing ","their miserable situation."],
+         "responses": ["!"],
+         "context_set": ""
+        },
+        {"tag": "Jail was never a solution",
+         "patterns": ["Statistacally speaking,"," there was never a correlation"," between sentencing cannabis ","smokers and the number of cannabis ","consumers that shows that the"," number of cannabis consumers ","decrease if you punish them. ","Please look at this research"," conducted in Portugal that proves"," the opposite."],
+         "responses": ["!"],
+         "context_set": ""
+        },      
+        {"tag": "Aouina's crowded infrastructure is a bubble",
+        "patterns": ["If you ever went to Aouina,Tunis,"," you probably noticed how over crowded"," it is and how huge the traffic is."," The problem here is that people"," are still paying bribes to buy ","piece of lands in which they"," will establish more buildings which"," will lead to a disaster in ","the upcoming years."],
+        "responses": ["!"],
+        "context_set": ""
+        },
+        {"tag": "pollution disaster coming soon",
+        "patterns": ["Tunisia is importing garbage ","and leftovers from other"," countries as if it is totally normal."," This current government will"," not face this upcoming pollution ","disaster, also the next government"," will not have to face it,"," but in 30 years, this will be"," a disaster that other ","countries are avoiding from now."],
+        "responses": ["!"],
+        "context_set": ""
+        },
+        {"tag": "Corruption will affect you badly even if you are selfish",
+        "patterns": ["So you are corrupt,","which means you increase your monthly"," income by decreasing the public income."," if you think you are outsmarting"," the public, you are totally wrong!"," if you and every other corrupt"," person works the public intereset ","instead of personal interest, ","the public income will increase ","which allows it to scale and "," increase exponentially. "," The important thing here is that you,"," the corrupt person are one of the public."],
+        "responses": ["!"],
+        "context_set": ""
+        },
+        {"tag": "Heritage equalization",
+        "patterns": ["I just did not understand "," why does the law allow men ","to inheret more heritage than women."],
+        "responses": ["!"],
+        "context_set": ""
+        }
+   ]
+}
